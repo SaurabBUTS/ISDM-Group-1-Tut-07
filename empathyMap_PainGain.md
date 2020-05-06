@@ -1,9 +1,10 @@
 ## Empathy Map/ Pain and Gain Section
 
 This is the first draft for Pain and Gain section of the Emapthy Map that 
-will be created by the group.  
-Author: Mehmet Ata Bal 
-Stu No. 13396700
+will be created by the group.   
+Author: Mehmet Ata Bal   
+Stu No. 13396700   
+Date: 07.05.2020   
 
 | Pain                          |Gain                             |
 | :----------------------------:|:-------------------------------:|
@@ -102,5 +103,5 @@ Stu No. 13396700
 
 
 #### Assumptions
-No distinct assumptions are made while creating this document. Yet all of the elements are
+No distinct or specific assumptions are made while creating this document. Yet all of the elements are
 created based on an intuitive customer perspective.
