@@ -1,7 +1,7 @@
 ## Empathy Map/ Pain and Gain Section
 
 This is the first draft for Pain and Gain section of the Emapthy Map that 
-will be created by the group.
+will be created by the group.  
 Author: Mehmet Ata Bal 
 Stu No. 13396700
 
