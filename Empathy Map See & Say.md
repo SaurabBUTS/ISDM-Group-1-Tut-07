@@ -1,7 +1,7 @@
 Author: Saurab Bhave (12577589)
 Description: Draft for Empathy Map (see and say sections)
 
-EMPATHY MAP - SEE AND SAY
+EMPATHY MAP - SEE AND SAY (RELATIONSHIP MANAGERS)
 
 
 **What do they SEE?**
