@@ -1,0 +1,11 @@
+﻿How Might We Statements
+* How might we minmise waiting times?
+* How might we generate skill scores for RM’s?
+* How might we create RM profiles?
+* How might we create customer profiles?
+* How might we decide which RM to match a customer to?
+* How might we decrease waiting times for customers?
+* How might we calculate the likelihood of a customer to purchase a product?
+* How might we create a list of target customers?
+* How might we decide on which targeted customers to provide to which RM?
+* How might we direct customers to an Interactive Voice Response Unit?
