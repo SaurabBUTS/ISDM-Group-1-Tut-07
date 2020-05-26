@@ -22,20 +22,20 @@ The group utilised User Stories to empathise and try to relate to the imagined s
 
 <div style="text-align: justify"> 
 The Product Backlog is commonly the collection of all user stories. However, a considerable amount of implementations of Scrum in practice also uses this tool to register basic task statements not written from a user perspective (unlike a user story) as well. This tool should be though as a board for the whole team to keep track of the functionalities that got implemented and functionalities waiting to be implemented. Traditionally, The Product Owner shapes and manages The Product Backlog with the help of The Scrum Master (more on these roles later). According to Schwaber & Sutherland (2017), a Product Backlog is never complete. It gets updated and edited continuously throughout the product life-cycle as new feedback from stakeholders arrive. This idea of constant improvement of The Product Backlog makes it one of the central features of the Scrum by introducing a starkly Agile element into the picture.     
-</div>
 </p>
-<div style="text-align: justify"> 
-The group benefitted from a Product Backlog by using it as tool for organizing its user stories. It was particularly useful in having an idea for what the final product will look like after all the functionalities are complete thus seeing the big picture. It was also useful tool for Sprint Planning purposes where the group estimated an average time of implementation for each user story thus estimating an average time of completion for each Sprint. Hence, Product Backlog was an important tool for time management as well. 
+The group had a Product Backlog that only includes User Stories and a seperate Github Issues page where user independent tasks were listed. The Backlog configured in such way was particularly useful when having an idea for what the final product will look like after all the functionalities are complete thus seeing the big picture. They were also useful for Sprint Planning purposes where the group estimated an average time of implementation for each user story thus estimating an average time of completion for each Sprint. Hence, Product Backlog was an important tool for time management as well. 
 </div>
+
+A sample image for The Product Backlog and Issues can be viewed below:
+![Product Backlog](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/static/images/product_backlog.png)
+![Issues](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/static/images/issues.png)
 
 
 ## Sprints
 
 <div style="text-align: justify"> 
 The Agile Alliance (n.d.) defines a Sprint as "a timebox of one month or less during which the team produces a potentially shippable product Increment." Sprints are short development events where a subset of The User Stories are implemented by the team. These User Stories are represented in a board called The Sprint Backlog (more on this later) and as mentioned the ultimate aim of every Sprint is to create an increment of the final product that is usable as it is. This aim of Sprints is another point that gives strong agility to Scrum Methodology since such configuration enables early testing and continuous improvement during the development process. Traditionally, Sprints start with a team meeting called The Sprint Planning where the team discusses the contents of the Sprint Backlog. A Sprint ends with a Sprint Review and a Sprint Retrospective following The Review. A Sprint Review is a meeting with all the team, including the stakeholders, where product achieved at the end of Sprint is presented to The Product Owner and the stakeholders. Whereas a Sprint Retrospective is a meeting where the team does the critique of the Sprint. This will be explained in more detail below.
-</div>
 </p>
-<div style="text-align: justify"> 
 The group utilised Sprints by dividing the User Stories created between 3 different Sprints. Working in Sprints also enabled the group to conduct regular meetings and keeping each other updated of the individual process of each member. Lastly, they were another useful tool for the time management of the group since they collectively enabled a time estimation for the whole product.
 </div>
 
@@ -43,9 +43,7 @@ The group utilised Sprints by dividing the User Stories created between 3 differ
 
 <div style="text-align: justify"> 
 Sprint Backlogs are a subset of The Product Backlog where User Stories that are to be implemented in a particular Sprint are collected and listed. The team, including the developers, modify the Sprint Backlog during a Sprint. It ideally should be adjusted in way that all the User Stories included in The Sprint Backlog should result in a shippable increment of the product. 
-</div>
 </p>
-<div style="text-align: justify"> 
 The group utilised Sprint Backlogs when dividing the User Stories to be implemented in different Sprints. They enabled an incremental look for the product where the group could imagine different stages of the final product during development.
 </div>
 
