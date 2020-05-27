@@ -1,27 +1,40 @@
 # Competitive Advantages
 
-###  Call Management Centre Optimisation 
-1.  **Relationship Manager Performance**
+### 1. Customer Satisfaction
 
-The CMC Information System (IS) will enable management to monitor RM performance. The Skill Score and Profiler Tool system will track RM interactions and provide feedback to RM’s based on the duration and results of their calls, both inbound and outbound. Moreover, the IS provides for training and development opportunities for RM’s. The recordings and scores will provide management with a holistic view of their RM’s. They will be able to supervise key parameters which will assist in training new staff and developing existing staff.
+  a) **Skills-based Routing**
 
-2. 	**Customer Satisfaction**
+The CMC IS implements a skills-based routing system for inbound calls that matches the RM’s with customers based on their previous call history, profile and skill score. Accordingly, the CMC can expect an increase in first-call resolution rates as the most appropriate RM will be matched with customers to ensure service enquiries are resolved quickly. If service enquiries are resolved on first contact, there will be an increase in the number of sales opportunities for the CMC, as RM’s are able to efficiently allocate their time to sales calls and enquiries. Outbound calls are assigned to RM’s via a customer target list that matches the customer’s profile with an RM. RM’s are provided a system-generated sales pitch that matches the customer’s profile. Resultantly, RM’s can provide a personalised and rewarding experience for customers, thereby improving customer relations and sales conversion rates. 
 
-The implementation of a skills-based routing system that matches RM’s with potential customers and inbound callers will result in greater customer satisfaction. For outbound calls, the creation of a target list for RM’s based on their skills and profile will maximise the likelihood of customers purchasing a holiday package. The IS will produce a sales script that will serve as a guideline during calls, resulting in higher sales. Inbound calls will be similarly routed to the most appropriate RM, with the goal of resolving service enquiries on first contact.    
+  b) **Call Volume Management**
 
-3. 	**Call Volume Management** 
+The CMC’s Interactive Voice Response (IVR) System will significantly improve load management during busy periods. Customers will be redirected to the most suitable RM who are already privy to their customer profile and enquiry details. The IVR system ensures that customers feel that their enquiries are treated with care and provides a timeline for resolution, resulting in a higher quality customer experience.  
 
-The use of an Interactive Voice Response (IVR) self-serve system will significantly improve call volume management during busy periods. Customers will be redirected via an Automatic Call Distributor (ACD) that will connect callers to an available RM. Moreover, customers will be connected to the appropriate RM, whose profile and skill score matches closely to the inbound caller’s score. As such, there will be an increase in first-call resolution rates, thereby reducing the number of repeat callers for service enquiries. This will increase the number of sales opportunities for RM’s. 
+### 2. Highly Skilled Labour
 
-### Customer Interaction Analytics
-The IS will provide skill scores and profiles to assess the agency’s customer base. This information, combined with the audio recordings of each call, will allow management to derive deep business insights. Insights will include customer churn rate, number of service enquiries, number of sales opportunities, most purchased product, and least purchased product. This will enable management to adjust their product offering according to the data collected.
+  a) **Measuring Performance**
 
-### Reduced Operational Costs
-An improvement in productivity and efficiency will have the effect of reducing the CMC’s operational costs as RM’s will be able to increase the number of interactions per hour, resulting in more sales opportunities and sales conversions. Moreover, the implementation of the CMC IS will inform budgetary decision making as a fixed cost will be required to maintain the IS.
+The IS provides the CMC management team with information regarding RM performance based on previous calls, sales conversions and problem resolution rates. Management will be able to determine how their RM’s follow company policies and procedures and how their RM’s are performing against KPI measures. 
 
-# Risks if the IS fails
-### Financial Loss
-The largest risk of the IS failing is the financial loss that will be bore by the travel agency. The financial loss will have several impacts on the company’s outlook over the following financial year. This loss may result in job-loss or pay reduction to compensate. 
+  b) **Training and Development**
 
-### Negative Reputation
-If the IS fails, our company will be perceived in a negative light. The failure to deliver the IS project is likely to result in a reduction in the number of clients that will approach us for similar solutions.
+The performance measures output by the IS provides management with training and development opportunities for their RM’s. Management will be able to identify problem areas and challenging scenarios that impact an RM’s sales and service performance. Management will be able to develop a training plan to improve RM performance so that the customer experience is enhanced and sales goals are met.     
+
+### 3. Cost Savings
+
+The IS offers an opportunity to improve the productivity and efficiency of the RM’s. The CMC will witness a more efficient use of time and more productive allocation of resources to income generating activities, such as sales calls. An improvement in the quality of service provided by RM’s is likely to have the residual impact of attracting more customers to the travel agency due to high customer satisfaction and approval ratings. 
+
+### 4. Enhanced Reporting and Analytics
+
+The travel agency can derive meaningful business insights from the IS. The IS will inform management about the number of calls, average call and wait times, average speed of answer and customer churn rates. Management will be able to easily identify problem areas, rectify issues and undergo process improvement. 
+
+# Risks posed by Project Failure
+
+### 1. Financial Loss
+
+A failure to deliver an effective IS solution may lead to financial losses for the travel agency. The travel agency would have raised capital and allocated project costs for the IS solution. If the system were to fail, the company would not reap the competitive benefits of the system and will suffer a financial loss. Such a loss may result in negative performance reviews, pay cuts and potentially job loss.
+
+### 2. Reputational Risk
+
+The IS developers may face a loss in reputation due to their inability to deliver the solution on time, within budget and as per client specifications. Consequently, the developers may face a reduction in clients and new project opportunities. 
+
