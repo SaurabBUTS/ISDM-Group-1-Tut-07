@@ -23,7 +23,7 @@ The group utilised User Stories to empathise and try to relate to the imagined s
 <div style="text-align: justify"> 
 The Product Backlog is commonly the collection of all user stories. However, a considerable amount of implementations of Scrum in practice also uses this tool to register basic task statements not written from a user perspective (unlike a user story) as well. This tool should be though as a board for the whole team to keep track of the functionalities that got implemented and functionalities waiting to be implemented. Traditionally, The Product Owner shapes and manages The Product Backlog with the help of The Scrum Master (more on these roles later). According to Schwaber & Sutherland (2017), a Product Backlog is never complete. It gets updated and edited continuously throughout the product life-cycle as new feedback from stakeholders arrive. This idea of constant improvement of The Product Backlog makes it one of the central features of the Scrum by introducing a starkly Agile element into the picture.     
 </p>
-The group had a Product Backlog that only includes User Stories and a seperate Github Issues page where user independent tasks were listed. The Backlog configured in such way was particularly useful when having an idea for what the final product will look like after all the functionalities are complete thus seeing the big picture. They were also useful for Sprint Planning purposes where the group estimated an average time of implementation for each user story thus estimating an average time of completion for each Sprint. Hence, Product Backlog was an important tool for time management as well. 
+The group had a Product Backlog that only included User Stories and a seperate Github Issues page where user independent tasks were listed. The Backlog configured in such way was particularly useful for having an idea of what the final product will look like after all the functionalities are complete thus seeing the big picture. They were also useful for Sprint Planning purposes where the group estimated an average time of implementation for each user story thus estimating an average time of completion for each Sprint. Hence, Product Backlog was an important tool for time management as well. 
 </div>
 
 A sample image for The Product Backlog and Issues can be viewed below:
@@ -36,7 +36,7 @@ A sample image for The Product Backlog and Issues can be viewed below:
 <div style="text-align: justify"> 
 The Agile Alliance (n.d.) defines a Sprint as "a timebox of one month or less during which the team produces a potentially shippable product Increment." Sprints are short development events where a subset of The User Stories are implemented by the team. These User Stories are represented in a board called The Sprint Backlog (more on this later) and as mentioned the ultimate aim of every Sprint is to create an increment of the final product that is usable as it is. This aim of Sprints is another point that gives strong agility to Scrum Methodology since such configuration enables early testing and continuous improvement during the development process. Traditionally, Sprints start with a team meeting called The Sprint Planning where the team discusses the contents of the Sprint Backlog. A Sprint ends with a Sprint Review and a Sprint Retrospective following The Review. A Sprint Review is a meeting with all the team, including the stakeholders, where product achieved at the end of Sprint is presented to The Product Owner and the stakeholders. Whereas a Sprint Retrospective is a meeting where the team does the critique of the Sprint. This will be explained in more detail below.
 </p>
-The group utilised Sprints by dividing the User Stories created between 3 different Sprints. Working in Sprints also enabled the group to conduct regular meetings and keeping each other updated of the individual process of each member. Lastly, they were another useful tool for the time management of the group since they collectively enabled a time estimation for the whole product.
+The group divided User Stories between 3 different Sprints. Working in Sprints enabled the group to conduct regular meetings and keeping each other updated of the individual process of each member. Lastly, they were another useful tool for the time management since they collectively enabled a time estimation for the whole product.
 </div>
 
 ## Sprint Backlogs
@@ -54,14 +54,14 @@ Scrum Methodology has different, predefined roles under its umbrella. Most commo
 <div style="text-align: justify"> 
 The Product Owner is a single person that clarifies what issues final product should solve and address. Therefore, they are the person who singularly manages and edits The Product Backlog. Of course ideally changes to Product Backlog should be made by consulting to The Scrum Master and even to The Development Team yet nonetheless The Product Owner has the authority to change The Product Backlog as they see it appropriate. Schwaber & Sutherland (2017) defines the main responsibility of The Product Owner as "maximizing the value of the product resulting from work of the Development Team."  
 </p>
-The group accepted The Product Owner as its Tutor, Juan Castilla Rho. The changes to the final product and Sprint Plannings were discussed with him. However, unlike traditional Scrum practices, he wasn't first-hand managing The Product Backlog. Rather, the group was collectively doing this. 
+The Product Owner for this project was Juan Castilla Rho. The changes to the final product and Sprint Plannings were discussed with him. However, unlike traditional Scrum practices, he wasn't first-hand managing The Product Backlog. Rather, the group was collectively doing this. 
 </div>
 
 ### SCRUM Master
 <div style="text-align: justify"> 
 The Scrum Master is defined as "the team role responsible for ensuring the team lives agile values and principles and follows the processes and practices that the team agreed they would use." (The Agile Alliance n.d.) Thus, like The Product owner, The Scrum Master is a singular person who's purpose is to lead The Development Team using Scrum practices and act as a bridge between them and The Product Owner and stakeholders.  
 </p>
-The group didn't assign a Scrum Master rather this responsibility was divided equally amongst the member. However, it should be noted that this was only due to The Project being imaginary and relatively small scale. It is a better practice to assign a Scrum Master and it is definitely recommended for future reference.
+The group didn't assign a Scrum Master rather this responsibility was divided equally amongst the members. However, it should be noted that this was only due to The Project being imaginary and relatively small scale. It is a better practice to assign a Scrum Master and it is definitely recommended for future reference.
 </div>
 
 ### Development Team Member
@@ -76,11 +76,12 @@ All of the group members were considered to be a part of the development team. A
 Daily Scrums are short (usually no longer than 15 minutes), meetings that are done at the beginning of each development day, hence commonly during Sprints. The purpose of these meetings is to update the rest of the team on a member's individual process. Hence elements such as obstacles experienced between last Daily Scrum and now, newly identified issues or ideas and so forth. Commonly, in each Daily Scrum, each team member has a certain set of questions that they need to answer. An example given for these questions in The Scrum Guide by Schwaber & Sutherland (2017) is as follows:
 <i>
 </p>
-</br> What did I do yesterday that helped the Development Team meet the Sprint Goal? 
-</br>What will I do today to help the Development Team meet the Sprint Goal?</br>Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal? 
+</br>What did I do yesterday that helped the Development Team meet the Sprint Goal? 
+</br>What will I do today to help the Development Team meet the Sprint Goal?
+</br>Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal? 
 </i>
 </p>
-The group didn't have daily meetings, but meetings were conducted twice every week. They enabled the group to be updated about the individual process, improvement and obstacles faced vy team members. 
+The group had Scrum meetings conducted twice every week. They enabled the group to be updated about the individual process, improvement and obstacles faced by team members. 
 </div>
 
 ## Sprint Retrospective
