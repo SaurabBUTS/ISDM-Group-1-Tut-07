@@ -2,6 +2,8 @@ Cisco 2015, *Advantages of Call Management System Services*, viewed 20 May 2020,
 
 Hasso Platner Institute of Design at Stanford n.d., *An Introduction to Design Thinking Process Guide*, Stanford University ,Palo Alto, CA, United States.  
 
+Monster, B. 2020, ‘5 Ways to Avoid Putting Customers on Hold’, The Plum Voice, weblog, The Plum Group, < https://www.plumvoice.com/resources/blog/5-ways-avoid-putting-customers-hold-ever/> 
+
 Rehkopf M. n.d., *The Agile Coach*, Atlassian, viewed 25 May 2020, < https://www.atlassian.com/agile/project-management/user-stories >
 Lucassen G., Dalpiaz F., van der Werf J. M. E. M., Sjaak Brinkkemper 2016, 'The Use and Effectiveness of User Stories in Practice', *Requirements Engineering: Foundation for Software Quality: 22nd International Working Conference*, Gothenburg, Sweden, pp.205-222.
 
