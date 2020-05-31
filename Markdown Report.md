@@ -13,6 +13,8 @@ For Inbound Callers, the following problem areas were identified:
 * Displeasure with long wait times
 * Inability to receive the information required for their service enquiry
 * Bombarded with sales pitches regardless of the subject matter of the call
+* Uninformed RM's
+* Complicated answering machine menus
 
 ### Outbound Call Customers
 For Outbound Call Customers, the following problem areas were identified:
@@ -29,6 +31,8 @@ For RM’s, the following problem areas were identified:
 *	Difficulties with dealing with inbound calls due to a lack of information
 *	Inability to hold the customer’s attention during an outbound call
 *	Concerns with their individual performance against KPI benchmarks
+
+The problems faced by these stakeholders have been analysed further, with deeper insights gathered from their unique perspectives. The insights gathered can be found in the Emapthy Maps below.
 
 ## Problem Definition
 The current CMC system routes RM’s to customers without analysing and considering contextual information regarding both customers and RM’s. The current system poses the risk of high customer churn, poor customer service quality and loss of sales opportunities due to uninteresting, impersonal, and ineffective customer conversations.
@@ -50,7 +54,7 @@ The current CMC system routes RM’s to customers without analysing and consider
       *	Increase CMC sales results
 
 ## Stakeholder Analysis
-The Stakeholder Register below contains a list of stakeholders and their relationship with the CMC IS in development. Both primary and secondary stakeholders have been recognised.
+The Stakeholder Register below contains a list of stakeholders and their relationship with the CMC IS in development. Both primary and secondary stakeholders have been identified.
 
 <p> 
 <i>Figure 1A</i>
@@ -90,6 +94,8 @@ The Stakeholder Register below contains a list of stakeholders and their relatio
 
 # Design Thinking Approach
 ## Reflection and Brainstorming
+
+## Project Assumptions
 
 ## SCRUM Methodology
 The SCRUM Methodology is defined as a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value (Schwaber & Sutherland 2017). The following section will explain the key elements of SCRUM and explain how the methodology was used in this project.
@@ -158,6 +164,9 @@ The following HMW statements were generated using the POV statements. Note, POV 
 
 # Workproducts and Models
 ## Use Case Diagrams
+<i>Figure 3A</i>
+<p></p>
+![Use Case Diagram CMC](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Use%20Case%20Diagram%20CMC.pdf)
 ## Activity Diagrams
 ## Class Diagrams
 ## Collaborative Diagrams
