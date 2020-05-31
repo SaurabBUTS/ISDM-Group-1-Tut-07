@@ -280,6 +280,10 @@ The travel agency can derive meaningful business insights from the IS. The IS wi
 
 A failure to deliver an effective IS solution may lead to financial losses for the travel agency. The travel agency would have raised capital and allocated project costs for the IS solution. If the system were to fail, the company would not reap the competitive benefits of the system and will suffer a financial loss. Such a loss may result in negative performance reviews, pay cuts and potentially job loss.
 
+## Reduced CMC Performance
+
+The delivery of an incomplete IS solution, or a solution that does not adhere to customer requirements may have the effect of reducing productivity and efficiency within the CMC. A problematic IS solution may complicate tasks or lead to errors that inhibit RM's from completing their duties. This will negatively impact the performance of the CMC.
+
 ## Reputational Risk
 
 The IS developers may face a loss in reputation due to their inability to deliver the solution on time, within budget and as per client specifications. Consequently, the developers may face a reduction in clients and new project opportunities. 
