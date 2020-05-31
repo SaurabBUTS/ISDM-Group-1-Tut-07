@@ -1,7 +1,20 @@
-# Assignment Cover Sheet
-# Title Page
-# Table of Contents
+# 31257 IS Development Methodologies - Group Project
+
+## Students
+* Arezva Aiser ()
+* Mehmet Ata Bal (13396700)
+* Saurab Bhave (12577589)
+* Ryan Dawson ()
+
+## Project Group
+* Group 1
+
+## Tutor and Tutorial Time
+* Juan Castilla Rho
+* Tutorial Group 7, Friday 12:00PM - 1:30PM 
+
 # Executive Summary
+The following report contains an analysis on an information systems development project. The project concerns a major travel company that wants to develop an IS to improve the operations of their CMC. The report has found the major issues faced by Inbound Callers, Outbound Call Customers and Relationship Managers. This report has captured the perspectives of these stakeholders and produced system models that outline how the proposed IS operates. The report has been produced following SCRUM methodology and references the design thinking approach applied during development.
 
 # Problem Definition
 ## Problem Analysis
@@ -95,7 +108,17 @@ The Stakeholder Register below contains a list of stakeholders and their relatio
 # Design Thinking Approach
 ## Reflection and Brainstorming
 
+
 ## Project Assumptions
+The following assumptions have been made to guide the creation of the Empathy Maps and UML Models.
+* The current IVR system features a complicated menu for customers to navigate
+* The current IVR system averages long wait times (>10 minutes)
+* The current CMC IS does not collect customer data and information
+* The current CMC IS does not record RM performance metrics 
+* The current CMC IS randomly assigning RM’s to customers for both outbound and inbound sales calls
+* The Travel Agency has a large budget to complete the IS project
+* The Travel Agency is somewhat flexible on project completion timelines 
+
 
 ## SCRUM Methodology
 The SCRUM Methodology is defined as a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value (Schwaber & Sutherland 2017). The following section will explain the key elements of SCRUM and explain how the methodology was used in this project.
