@@ -163,16 +163,42 @@ The following HMW statements were generated using the POV statements. Note, POV 
 * HMW direct customers using the IVR? 
 
 # Workproducts and Models
-## Use Case Diagrams
-<i>Figure 3A: Use Case Diagram</i>
+## Use Case Diagram
+<i>Figure 3A: CMC Use Case Diagram</i>
 ![CMC Use Case Diagram](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/CMC%20Use%20Case%20Diagram.png)
 
+## Class Diagram
+<i>Figure 3B: CMC Class Diagram</i>
+![ClassDiagram](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Class%20Diagram/ClassDiagram.png)
 
 ## Activity Diagrams
-## Class Diagrams
-## Collaborative Diagrams
+<i>Figure 3C: CMC Activity Diagram - Inquiry</i>
+![activityDiagram_Inquiry](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Activity%20Diagrams/activityDiagram_Inquiry.PNG)
 
+<i>Figure 3D: CMC Activity Diagram - Confirm Booking</i>
+![activityDiagram_ConfirmBooking2](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Activity%20Diagrams/activityDiagram_ConfirmBooking2.PNG)
 
+<i>Figure 3E: CMC Activity Diagram - Make Booking</i>
+![activityDiagram_MakeBooking2](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Activity%20Diagrams/activityDiagram_MakeBooking2.PNG)
+
+<i>Figure 3F: CMC Activity Diagram - Cancel Booking</i>
+![activityDiagram_Cancel2](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Activity%20Diagrams/activityDiagram_Cancel2.PNG)
+
+<i>Figure 3G: CMC Activity Diagram - Outbound Call</i>
+![activityDiagram_Call](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Activity%20Diagrams/activityDiagram_Call.PNG)
+
+<i>Figure 3H: CMC Activity Diagram - Customer and RM Matching</i>
+![activityDiagram_Matching](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Activity%20Diagrams/activityDiagram_Matching.PNG)
+
+<i>Figure 3I: CMC Activity Diagram - Target List</i>
+![activityDiagram_TargetList](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Activity%20Diagrams/activityDiagram_TargetList.PNG)
+
+## Collaboration Diagrams
+<i>Figure 3J: CMC Collaboration Diagram - Inbound Calls</i>    
+![Collaboration Diagram - Inbound Calls](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Collaboration%20Diagrams/Collaboration%20Diagram%20-%20Inbound%20Calls.PNG)
+
+<i>Figure 3K: CMC Collaboration Diagram - Outbound Calls</i>
+![Collaboration Diagram - Outbound Calls](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Collaboration%20Diagrams/Collaboration%20Diagram%20-%20Outbound%20Calls.PNG)
 
 # Competitive Advantages
 ## Customer Satisfaction
@@ -213,3 +239,14 @@ The IS developers may face a loss in reputation due to their inability to delive
 
 
 # References
+Cisco 2015, Advantages of Call Management System Services, viewed 20 May 2020, < https://community.cisco.com/t5/collaboration-voice-and-video/advantages-of-call-management-system-services/ba-p/3105615 >.
+
+Hasso Platner Institute of Design at Stanford n.d., An Introduction to Design Thinking Process Guide, Stanford University ,Palo Alto, CA, United States.
+
+Monster, B. 2020, ‘5 Ways to Avoid Putting Customers on Hold’, The Plum Voice, weblog, The Plum Group, < https://www.plumvoice.com/resources/blog/5-ways-avoid-putting-customers-hold-ever/>
+
+Rehkopf M. n.d., The Agile Coach, Atlassian, viewed 25 May 2020, < https://www.atlassian.com/agile/project-management/user-stories > Lucassen G., Dalpiaz F., van der Werf J. M. E. M., Sjaak Brinkkemper 2016, 'The Use and Effectiveness of User Stories in Practice', Requirements Engineering: Foundation for Software Quality: 22nd International Working Conference, Gothenburg, Sweden, pp.205-222.
+
+Schwaber K. & Sutherland J. 2017, The Scrum Guide, Scrum Guides, viewed 25 May 2020, < https://www.scrumguides.org/scrum-guide.html >.
+
+The Agile Alliance n.d., Agile Glossary: Scrum, viewed 26 May 2020, < https://www.agilealliance.org/glossary/scrum/# >.
