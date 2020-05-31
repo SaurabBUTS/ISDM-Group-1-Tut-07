@@ -57,7 +57,7 @@ The current CMC system routes RM’s to customers without analysing and consider
 The Stakeholder Register below contains a list of stakeholders and their relationship with the CMC IS in development. Both primary and secondary stakeholders have been identified.
 
 <p> 
-<i>Figure 1A</i>
+<i>Figure 1A: Stakeholder Register</i>
 </p>
 
 | Stakeholder                   | Responsibility                                                                                                                      | Concerns or Fears                                                                                        |
@@ -76,19 +76,19 @@ The Stakeholder Register below contains a list of stakeholders and their relatio
 
 ## Empathy Maps
 ### Relationship Managers
-<i> Figure 1B </i>
+<i> Figure 1B: RM Empathy Map 1 </i>
 ![Empathy Map RMs 1](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_RMs/Empathy%20Map%20RMs%201.png)
-<i> Figure 1C </i>
+<i> Figure 1C: RM Empathy Map 2 </i>
 ![Empathy Maps RMs 2](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_RMs/Empathy%20Map%20RMs%202.png)
 ### Inbound Callers
-<i> Figure 1D </i>
+<i> Figure 1D: Inbound Caller Empathy Map 1  </i>
 ![Empathy Map Inbound Callers 1](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_InboundCalls/Empathy%20Map%20Inbound%20Callers%201.png)
-<i> Figure 1E </i>
+<i> Figure 1E: Inbound Caller Empathy Map 2 </i>
 ![Empathy Map Inbound Callers 2](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_InboundCalls/Empathy%20Map%20Inbound%20Callers%202.png)
 ### Outbound Call Customers
-<i> Figure 1F </i>
+<i> Figure 1F: Outbound Call Customer Empathy Map 1 </i>
 ![Empathy Map Outbound Callers 1](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_OutboundCalls/Empathy%20Map%20Outbound%20Callers%201.png)
-<i> Figure 1G </i>
+<i> Figure 1G: Outbound Call Customer Empathy Map 2 </i>
 ![Empathy Map Outbound Callers 2](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_OutboundCalls/Empathy%20Map%20Outbound%20Callers%202.png)
 
 
@@ -164,9 +164,10 @@ The following HMW statements were generated using the POV statements. Note, POV 
 
 # Workproducts and Models
 ## Use Case Diagrams
-<i>Figure 3A</i>
-<p></p>
-![Use Case Diagram CMC](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/Use%20Case%20Diagram%20CMC.pdf)
+<i>Figure 3A: Use Case Diagram</i>
+![CMC Use Case Diagram](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/Diagrams/CMC%20Use%20Case%20Diagram.png)
+
+
 ## Activity Diagrams
 ## Class Diagrams
 ## Collaborative Diagrams
