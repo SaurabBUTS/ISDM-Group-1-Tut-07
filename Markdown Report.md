@@ -1,10 +1,10 @@
 # 31257 IS Development Methodologies - Group Project
 
 ## Students
-* Arezva Aiser ()
+* Arezva Aiser (13408570)
 * Mehmet Ata Bal (13396700)
 * Saurab Bhave (12577589)
-* Ryan Dawson ()
+* Ryan Dawson (13270006)
 
 ## Project Group
 * Group 1
