@@ -70,7 +70,7 @@ The current CMC system routes RM’s to customers without analysing and consider
 The Stakeholder Register below contains a list of stakeholders and their relationship with the CMC IS in development. Both primary and secondary stakeholders have been identified.
 
 <p> 
-<i>Figure 1A: Stakeholder Register</i>
+<i>Figure 1.1: Stakeholder Register</i>
 </p>
 
 | Stakeholder                   | Responsibility                                                                                                                      | Concerns or Fears                                                                                        |
@@ -89,19 +89,19 @@ The Stakeholder Register below contains a list of stakeholders and their relatio
 
 ## Empathy Maps
 ### Relationship Managers
-<i> Figure 1.1: RM Empathy Map 1 </i>
+<i> Figure 1.2: RM Empathy Map 1 </i>
 ![Empathy Map RMs 1](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_RMs/Empathy%20Map%20RMs%201.png)
-<i> Figure 1.2: RM Empathy Map 2 </i>
+<i> Figure 1.3: RM Empathy Map 2 </i>
 ![Empathy Maps RMs 2](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_RMs/Empathy%20Map%20RMs%202.png)
 ### Inbound Callers
-<i> Figure 1.3: Inbound Caller Empathy Map 1  </i>
+<i> Figure 1.4: Inbound Caller Empathy Map 1  </i>
 ![Empathy Map Inbound Callers 1](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_InboundCalls/Empathy%20Map%20Inbound%20Callers%201.png)
-<i> Figure 1.4: Inbound Caller Empathy Map 2 </i>
+<i> Figure 1.5: Inbound Caller Empathy Map 2 </i>
 ![Empathy Map Inbound Callers 2](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_InboundCalls/Empathy%20Map%20Inbound%20Callers%202.png)
 ### Outbound Call Customers
-<i> Figure 1.5: Outbound Call Customer Empathy Map 1 </i>
+<i> Figure 1.6: Outbound Call Customer Empathy Map 1 </i>
 ![Empathy Map Outbound Callers 1](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_OutboundCalls/Empathy%20Map%20Outbound%20Callers%201.png)
-<i> Figure 1.6: Outbound Call Customer Empathy Map 2 </i>
+<i> Figure 1.7: Outbound Call Customer Empathy Map 2 </i>
 ![Empathy Map Outbound Callers 2](https://github.com/SaurabBUTS/ISDM-Group-1-Tut-07/blob/master/EmpathyMap_OutboundCalls/Empathy%20Map%20Outbound%20Callers%202.png)
 
 
