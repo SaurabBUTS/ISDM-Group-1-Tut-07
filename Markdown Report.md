@@ -45,7 +45,7 @@ For RM’s, the following problem areas were identified:
 *	Inability to hold the customer’s attention during an outbound call
 *	Concerns with their individual performance against KPI benchmarks
 
-The problems faced by these stakeholders have been analysed further, with deeper insights gathered from their unique perspectives. The insights gathered can be found in the Emapthy Maps below.
+The problems faced by these stakeholders have been analysed further, with deeper insights gathered from their unique perspectives. The insights gathered can be found in the Empathy Maps below.
 
 ## Problem Definition
 The current CMC system routes RM’s to customers without analysing and considering contextual information regarding both customers and RM’s. The current system poses the risk of high customer churn, poor customer service quality and loss of sales opportunities due to uninteresting, impersonal, and ineffective customer conversations.
