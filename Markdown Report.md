@@ -13,8 +13,6 @@
 * Juan Castilla Rho
 * Tutorial Group 7, Friday 12:00PM - 1:30PM 
 
-# Executive Summary
-The following report contains an analysis on an information systems development project. The project concerns a major travel company that wants to develop an IS to improve the operations of their CMC. The report has found the major issues faced by Inbound Callers, Outbound Call Customers and Relationship Managers. This report has captured the perspectives of these stakeholders and produced system models that outline how the proposed IS operates. The report has been produced following SCRUM methodology and references the design thinking approach applied during development.
 
 # Problem Definition
 ## Problem Analysis
